@@ -17,3 +17,19 @@
 .color-giallo {
     background-color: yellow;
 }
+
+.cl-section {
+    background-color: rgba(26,188,156,255);
+}
+
+.cl-nav {
+    background-color: rgba(44,62,80,255);
+}
+
+.cl-footer-1 {
+    background-color: rgba(58,84,109,255);
+}
+
+.cl-footer-2 {
+    background-color: rgba(44,62,80,255);
+}
